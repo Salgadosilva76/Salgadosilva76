@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel! <br/><a href="www.linkedin.com/in/gabriel-silva-4a5a74313">Cybersecurity Analyst</a>
+<h1>Hi, I'm Gabriel! <br/><a href="www.linkedin.com/in/gabriel-silva-4a5a74313">Cybersecurity Analyst,</a> <a href="http://www.youtube.com/@Salgadosilva76">YouTuber</a></h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Salgadosilva76/ActiveDirectoryLab.git)
@@ -12,14 +12,12 @@
 
 
 [<img align="center" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[youtube]: http://www.youtube.com/@Salgadosilva76
+[instagram]: https://www.instagram.com/salgado.bjj/
 [linkedin]: www.linkedin.com/in/gabriel-silva-4a5a74313
 
 <!--
